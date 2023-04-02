@@ -27,4 +27,9 @@
     (solder_mask_margin 0.05) (tstamp afae6263-aa37-4670-b427-eb52f99175ad))
   (pad "C3" smd circle (at 0.329 -0.229) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.05) (tstamp f919e2ee-ef62-4ad4-9117-830530fcf2ba))
+  (model "/home/letrend/workspace/magcam/hardware/kicad_db/_3Dmodels/TLI493d-W2BW.stp"
+    (offset (xyz 0 0 0.09))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
