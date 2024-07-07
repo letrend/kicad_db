@@ -21,4 +21,9 @@
   (pad "2" thru_hole circle (at -1 0) (size 1 1) (drill 0.6) (layers "*.Cu" "*.Mask") (tstamp 7d934c71-9db2-4123-8a69-9db6349c63f9))
   (pad "3" thru_hole circle (at 0 -1) (size 1 1) (drill 0.6) (layers "*.Cu" "*.Mask") (tstamp 678466a5-89a9-4000-8831-9afb79011eb1))
   (pad "4" thru_hole circle (at 0 1) (size 1 1) (drill 0.6) (layers "*.Cu" "*.Mask") (tstamp 1bb21943-bcd9-44dc-8e9a-c1490df08944))
+  (model "/home/letrend/workspace/time_of_flight/hardware/kicad_db/_3Dmodels/L1570P5DFB.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
