@@ -72,7 +72,7 @@
   (pad "4" thru_hole oval (at 7.7 2.5) (size 3.016 1.508) (drill oval 2.2 1) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 1041c2d2-9ccf-48c5-86ae-1cfe0e96948a))
   (model "/home/letrend/workspace/bpm_machine/hardware/kicad_db/_3Dmodels/SJ-63063B--3DModel-STEP-1.STEP"
-    (offset (xyz -12 0 6.5))
+    (offset (xyz -12 0 6.75))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )
